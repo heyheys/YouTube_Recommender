@@ -12,4 +12,4 @@ Table of contents:
 4. Model training. (Yet to finish)
 5. Model evaluation. (Yet to finish)
 
-![Image of Cheat Sheet](https://)
+![Cheat Sheet](https://github.com/heyheys/YouTube_Recommender/blob/main/Cheat%20Sheet.png)

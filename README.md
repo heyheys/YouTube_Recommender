@@ -11,3 +11,5 @@ Table of contents:
 3. Model building. (Finished)
 4. Model training. (Yet to finish)
 5. Model evaluation. (Yet to finish)
+
+![Image of Cheat Sheet](https://)

@@ -1,0 +1,3 @@
+Changes yet to be done to the model:
+1. Use the pretrained movie embeddings from WALS as the initial values of movie embeddings.
+2. Create two movie embedding matrices in the model for easier training. Average them in the end as the final movie embeddings.

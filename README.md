@@ -1,4 +1,4 @@
-# Implementing Deep Neural Networks for YouTube Recommendations in PyTorch (in progress)
+# Implementing Deep Neural Networks for YouTube Recommendations in PyTorch
 
 [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf), published in 2016 by Paul Covington, Jay Adams and Emre Sargin, has a great impact on the development of recommendation system. The system has two major components: candidate generation and ranking.
 
